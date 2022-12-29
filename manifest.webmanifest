@@ -40,8 +40,8 @@
         "type": "image/png"
     }
    ],
-   "id":"/awp10a-production.up.railway.app",
-   "start_url":"https://awp10a-production.up.railway.app",
+   "id":"/awp-2022-utt.netlify.app",
+   "start_url":"/awp-2022-utt.netlify.app",
    "display":"fullscreen",
    "theme_color":"#00aa00",
    "background_color":"#00aa00"
